@@ -1,0 +1,1 @@
+1) The ways that subclasses can use the constructors of their superclass(es) is by using the special keyword super(), by using/calling parameter lists through it. With the super() keyword, one is able to initialize inherited instance variables. 
